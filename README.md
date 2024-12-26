@@ -1,2 +1,2 @@
 # TrainingManagment
-Une application de gestion de formations dans une entreprise 
+Créer une plateforme permettant aux entreprises de gérer les formations internes de leurs employés, y compris la gestion des sessions de formation, des participants, des évaluations et des certifications.
