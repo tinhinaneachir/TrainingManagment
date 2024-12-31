@@ -1,2 +1,2 @@
 # TrainingManagment
-Créer une plateforme permettant aux entreprises de gérer les formations internes de leurs employés, y compris la gestion des sessions de formation, des participants, des évaluations et des certifications.
+Le projet consiste à développer une application permettant aux entreprises de gérer les formations de leurs employés. L'objectif principal est de centraliser les informations liées aux formations (planification, inscription, suivi, évaluation) tout en offrant une expérience utilisateur intuitive et des fonctionnalités adaptées aux besoins d'une entreprise.
