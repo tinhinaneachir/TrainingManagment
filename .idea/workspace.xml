@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68e4d085-07c8-44f2-8520-eebb16d1ab0f" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GestionFormationEntreprise/src/main/java/com/example/GestionFormationEntreprise/controller/EmployeurController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GestionFormationEntreprise/src/main/java/com/example/GestionFormationEntreprise/dto/Administrateur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GestionFormationEntreprise/src/main/java/com/example/GestionFormationEntreprise/dto/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GestionFormationEntreprise/src/main/java/com/example/GestionFormationEntreprise/dto/Formateur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GestionFormationEntreprise/src/main/java/com/example/GestionFormationEntreprise/dto/Formation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GestionFormationEntreprise/src/main/java/com/example/GestionFormationEntreprise/repository/EmployeeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GestionFormationEntreprise/src/main/java/com/example/GestionFormationEntreprise/service/EmployeeService.java" afterDir="false" />
+    <list default="true" id="68e4d085-07c8-44f2-8520-eebb16d1ab0f" name="Changes" comment="Create CRUD API">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +21,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="init" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="JpbToolWindowState">
     <option name="isToolWindowVisible" value="false" />
@@ -71,12 +66,21 @@
       <option name="project" value="LOCAL" />
       <updated>1735743626435</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create CRUD API">
+      <option name="closed" value="true" />
+      <created>1735913009542</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735913009542</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Create CRUD API" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create CRUD API" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
