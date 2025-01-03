@@ -1,22 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="68e4d085-07c8-44f2-8520-eebb16d1ab0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GestionFormationEntreprise.iml" afterDir="false" />
+    <list default="true" id="68e4d085-07c8-44f2-8520-eebb16d1ab0f" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GestionFormationEntreprise/src/main/java/com/example/GestionFormationEntreprise/controller/EmployeurController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GestionFormationEntreprise/src/main/java/com/example/GestionFormationEntreprise/dto/Administrateur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GestionFormationEntreprise/src/main/java/com/example/GestionFormationEntreprise/dto/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GestionFormationEntreprise/src/main/java/com/example/GestionFormationEntreprise/dto/Formateur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GestionFormationEntreprise/src/main/java/com/example/GestionFormationEntreprise/dto/Formation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GestionFormationEntreprise/src/main/java/com/example/GestionFormationEntreprise/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GestionFormationEntreprise/src/main/java/com/example/GestionFormationEntreprise/service/EmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -27,13 +46,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/tinhi/dev/GestionFormationEntreprise/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/tinhi/dev/GestionFormationEntreprise/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,7 +63,20 @@
       <option name="presentableId" value="Default" />
       <updated>1735469325829</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1735743626435</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735743626435</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
